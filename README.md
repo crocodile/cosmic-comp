@@ -29,3 +29,9 @@ This project uses [just](https://github.com/casey/just) as a command runner.
 #### Vendoring
 - `just vendor` - Vendor dependencies locally and create vendor.tar
 - `just vendor-extract` - Extract vendored dependencies from vendor.tar
+
+## Workspace Overview Changes
+
+This feature branch adds enhanced three- and four-finger touchpad gestures for opening and closing the workspace overview and switching workspaces while it is open.
+
+See [REBASE_UPSTREAM.md](https://github.com/crocodile/cosmic-comp/blob/workspace-overview-changes/REBASE_UPSTREAM.md) for upstream rebase instructions.
